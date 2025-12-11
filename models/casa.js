@@ -1,4 +1,4 @@
-import * as THREE from '../JS/three.module.js';
+import * as THREE from '../js/three.module.js';
 
 export default function obj6({ x, y, z }) {
 
@@ -170,3 +170,4 @@ export default function obj6({ x, y, z }) {
 
     return casa;
 }
+
