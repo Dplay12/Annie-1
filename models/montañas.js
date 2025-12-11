@@ -1,4 +1,4 @@
-import * as THREE from '../JS/three.module.js';
+import * as THREE from '../js/three.module.js';
 
 export default function obj5({ x, y, z }) {
 
@@ -52,3 +52,4 @@ export default function obj5({ x, y, z }) {
 
     return montañas;
 }
+
