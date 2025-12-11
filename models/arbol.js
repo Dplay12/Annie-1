@@ -1,6 +1,6 @@
 
 //Con este llamas a la libreria en la carpeta para que puedas importar
-import * as THREE from '../JS/three.module.js';
+import * as THREE from '../js/three.module.js';
 
 //Con esta vas a esxporar
 export default function obj1({ x, y, z })  {
@@ -73,5 +73,6 @@ export default function obj1({ x, y, z })  {
 
     return arbol;
 }
+
 
 
